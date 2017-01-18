@@ -9,7 +9,7 @@ public class Constants {
     public static final int CELLS_COUNT_Y = 20;
     //chance of getting apples on start in %
     //spawns 3-5 apples
-    public static final INITIAL_SPAWN_CHANCE = 1;
+    public static final int INITIAL_SPAWN_CHANCE = 1;
     //fps
     public static final int FPS = 5;
     //window constants
